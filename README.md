@@ -12,3 +12,7 @@ player = PS3D(playFabId="...", token="...", device_id="...")
 
 print(player.get_leaderboards())
 ```
+
+# FAQ:
+> Is it Free to Use?
+- Yes!
