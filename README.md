@@ -4,7 +4,7 @@
 
 # Example Usage:
 - Get Clan Leaderboards:
-```
+```python
 from ps3d_api import PS3D
 
 # Fill in your information accordingly:
