@@ -16,3 +16,5 @@ print(player.get_leaderboards())
 # FAQ:
 > Is it Free to Use?
 - Yes!
+> How to get Token & PlayFabID & DeviceID?
+- Capture it using **[mitmproxy](https://mitmproxy.org/)** or **[HttpCanary](https://m.apkpure.com/httpcanary-%E2%80%94-http-sniffer-capture-analysis/com.guoshi.httpcanary)**.
